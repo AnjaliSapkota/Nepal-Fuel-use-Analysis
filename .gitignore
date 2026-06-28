@@ -1,2 +1,5 @@
 venv/
-
+Data/
+documentation/
+final_data.csv
+final_data.xlsx
